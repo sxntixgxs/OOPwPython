@@ -3,7 +3,7 @@
 # The main idea is to protect important or private data within a class from any unauthorized modification or alteration. This is achieved by declaring certain methods and variables as private, ensuring that they only interact within the class itself
 
 
-
+# Another feature to add is the encapsulation tries to save or hide the REAL variable name but no the value that's why you can obtain it or manipulate it by getters and setters functions.
 #################################################################################
 
 # Protected members: These are built into other languages like C# or Java by default. It means that other classes cannot directly access them, but subclasses are able to do so
